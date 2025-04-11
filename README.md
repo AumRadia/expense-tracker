@@ -1,16 +1,22 @@
-# expense
+# 💸 Expense Tracker App
 
-A new Flutter project.
+A simple and clean finance tracking app built using **Flutter**, designed to help users manage their daily expenses efficiently.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Add and track expenses with title, amount, date, and category.
+- Neatly organized UI for both small and large screen devices.
+- Responsive layout with platform-aware dialogs (Android,iOS & WEB).
+- Data validation for safe and accurate entry.
+- Reusable components and clean architecture for easy maintenance.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (Dart)
+- Material & Cupertino widgets
+- Date Picker, Dropdowns, and custom input handling
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+![ss1](https://github.com/user-attachments/assets/b765c939-81c8-4b5e-8c51-65fbc4278e95)
+![ss2](https://github.com/user-attachments/assets/bdcc355b-ad24-4554-8e9f-4afbe6ea9ae3)
