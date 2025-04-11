@@ -16,7 +16,3 @@ A simple and clean finance tracking app built using **Flutter**, designed to hel
 - Material & Cupertino widgets
 - Date Picker, Dropdowns, and custom input handling
 
-## 📸 Screenshots
-
-![ss1](https://github.com/user-attachments/assets/b765c939-81c8-4b5e-8c51-65fbc4278e95)
-![ss2](https://github.com/user-attachments/assets/bdcc355b-ad24-4554-8e9f-4afbe6ea9ae3)
